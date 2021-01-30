@@ -16,7 +16,7 @@ const axiosInstance = axios.create({
 });
 
 /**
- * Gets c
+ * Gets environment release info from build key and environment name.
  *
  * @param {string} plan_key The key for the bamboo build plan.
  * @param {string} environment_name The name of the deployment environment.
