@@ -98,6 +98,9 @@ dist
 # FuseBox cache
 .fusebox/
 
+# webstorm
+.idea
+
 # DynamoDB Local files
 .dynamodb/
 
